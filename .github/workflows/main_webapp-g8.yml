@@ -55,4 +55,4 @@ jobs:
           app-name: 'WebApp-G8'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A75A2813A01D4869AA307865A57B3B78 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7420C3E47B5B4F92BE0405EE55867BA3 }}
